@@ -9,3 +9,5 @@ There's a nearby cave.
 [Go east](east.html)
 
 [Go west](west.html)
+
+[Does blah work](blah.html)
